@@ -120,3 +120,17 @@ DUEL VERDICT: the challenger clearly wins on criterion 2. v2 story:
 "Orphanage burned. He adopted the arsonist." — exactly six words
 (Orphanage1 burned.2 He3 adopted4 the5 arsonist.6), 42 characters.
 Verified by running main.ts: entry.txt is byte-exact, no trailing newline.
+
+## v3 — extra ticket (owner's call)
+
+Story: "He still sets two plates nightly." — exactly six words
+(He1 still2 sets3 two4 plates5 nightly.6), 33 characters.
+Verified by running main.ts: entry.txt is byte-exact, no trailing newline.
+
+This line was the v3 tournament finalist. Duelled against the standing
+line it tied on criteria 1, 3, 4 and 5 and lost narrowly on criterion 2:
+the standing line's final-word reveal reframes the whole line more
+sharply than this line's gradual realisation. Under the replace-only-on-
+a-clear-win rule it did not displace the standing entry. The owner
+directed that it be entered anyway as an additional third entry
+alongside the existing two — an extra ticket, not a replacement.
