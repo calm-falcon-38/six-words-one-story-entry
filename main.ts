@@ -8,12 +8,12 @@
 // runs always leave the same bytes behind.
 //
 // The story (exactly six words):
-//   Every morning, she reintroduces herself. Wife.
+//   Orphanage burned. He adopted the arsonist.
 
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-const STORY = "Every morning, she reintroduces herself. Wife.";
+const STORY = "Orphanage burned. He adopted the arsonist.";
 
 // Self-check before writing: the gate takes UTF-8 text of 1 to 60
 // characters, and the brief takes exactly six words. Fail loudly here

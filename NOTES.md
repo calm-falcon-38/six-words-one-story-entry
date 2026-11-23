@@ -93,3 +93,30 @@ DUEL VERDICT: submit the winner unchanged.
   no dev grade shows before the deadline to tell you whether a new version
   is better. One strong submission is the play; quota in hand was 5 today,
   40 hard, can_submit true.
+
+## v2 — iteration after round 1 (Mon 2026-11-23, ~20:00 WAT)
+
+Round 1 placed the standing line 369 of 883 (win rate ~52%); only the top 3
+are paid. The five above us included two more memory-loss lines, so that
+territory is crowded in this field. Iteration tournament: 12 fresh concepts
+across grief object, birth, betrayal, war, childhood, old age, crime, love,
+work, faith, animals, space and money. Weakness run on the best 4 killed
+the dog line (the turn is an absence, weaker than a reveal) and the faith
+line (quiet, but its turn is smaller than the standing line's).
+
+Finalists duelled against the standing line, criteria in order:
+- "Midwife delivered herself, alone, snowed in." — criterion 1 ties; on
+  criterion 2 it is one dramatic scene but implies less of a whole life
+  than a marriage plus illness. Standing line keeps its place against it.
+- "Orphanage burned. He adopted the arsonist." — criterion 1 ties (event
+  plus consequence, a complete arc). Criterion 2 decides it: adopting the
+  arsonist is a far larger turn than the standing line's gentle reveal,
+  and it leaves the memory-loss crowd behind. Criterion 3 ties (every word
+  load-bearing), criterion 4 is close (the unanchored "He" is the reader's
+  fill-in, not a trip), criterion 5 ties (his identity and motive unsaid).
+  It is also shorter, 42 characters against 46, which wins exact ties.
+
+DUEL VERDICT: the challenger clearly wins on criterion 2. v2 story:
+"Orphanage burned. He adopted the arsonist." — exactly six words
+(Orphanage1 burned.2 He3 adopted4 the5 arsonist.6), 42 characters.
+Verified by running main.ts: entry.txt is byte-exact, no trailing newline.
